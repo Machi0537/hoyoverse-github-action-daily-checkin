@@ -40,3 +40,5 @@ jobs:
         USER_1_TOKEN: ${{ secrets.MY_TOKEN }}
         USER_2_ID: ${{ secrets.MY_TOKEN_ID2 }}
         USER_2_TOKEN: ${{ secrets.MY_TOKEN2 }}
+        USER_3_ID: ${{ secrets.MY_TOKEN_ID3 }}
+        USER_3_TOKEN: ${{ secrets.MY_TOKEN3 }}
